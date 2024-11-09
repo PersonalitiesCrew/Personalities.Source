@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "redhat.vscode-xml",
-        "fabianlauer.vs-code-xml-format"
+        "fabianlauer.vs-code-xml-format",
+        "esbenp.prettier-vscode"
     ]
 }
